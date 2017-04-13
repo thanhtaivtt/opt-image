@@ -43,7 +43,7 @@ require_once 'opt.php';
 		</div>
 		<div class="right">
 			<p>Mới (17KB)</p>
-			<img src="<?php echo opt('ex-0.jpg',null,10); ?>" alt="old">
+			<img src="<?php echo opt('ex-0.jpg',null,70); ?>" alt="old">
 		</div>
 	</div>
 </body>
